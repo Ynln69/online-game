@@ -4,10 +4,11 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/png" href="./public/logo.webp" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>
-      LEGO zestaw kasyno – Automaty do gier, Stoły pokerowe | Unikalne zestawy
-      LEGO
-    </title>
+    <title>Gauntletslotandgem</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
     <link rel="stylesheet" href="./css/styles.css" />
   </head>
   <body>
@@ -26,7 +27,7 @@
             <li class="nav-item">
               <a
                 class="nav-link"
-                href="./about-page.html"
+                href="./o-serwisie-page.html"
                 data-translate="header.link2"
               >
                 O serwisie</a
@@ -54,7 +55,7 @@
               GauntletSlotAndGem
             </h1>
             <a
-              href="./page/index.html"
+              href="./o-serwisie-page.html"
               class="hero-link"
               data-translate="buttons.toCatalog"
               >O serwisie</a
@@ -63,34 +64,35 @@
         </div>
       </section>
       <section class="section">
-        <div class="container oferta-box">
-          <div class="about-us-content">
-            <h2 class="main-title" data-translate="oferta.title">
-              Nasze usługi – kompleksowa obsługa na najwyższym poziomie
-            </h2>
-            <p class="about-us-text" data-translate="oferta.desc">
-              Oferujemy szeroki zakres usług, w tym kompleksowe konsultacje
-              dotyczące wyboru najlepszych zestawów konstrukcyjnych,
-              dostosowanych do Twoich indywidualnych potrzeb i preferencji.
-              Naszym priorytetem jest szybka i niezawodna dostawa, abyś mógł
-              cieszyć się swoimi produktami jak najszybciej. Po zakupie
-              zapewniamy pełne wsparcie, pomagając w rozwiązywaniu wszelkich
-              pytań czy wątpliwości, aby Twoje doświadczenie zakupowe było jak
-              najbardziej satysfakcjonujące. Naszym celem jest Twoje zadowolenie
-              nie tylko z produktów, ale również z jakości naszej obsługi.
-            </p>
-            <a
-              href="./page/index.html"
-              class="main-btn"
-              data-translate="oferta.btn"
-              >bliższy</a
+        <div class="container services">
+          <h2 class="main-title services-title">O GauntletSlotAndGem</h2>
+          <div class="services-wrapper">
+            <picture>
+              <source
+                media="(max-width: 833px)"
+                srcset="./img/services-img-m.webp"
+              />
+              <source
+                media="(min-width: 834px)"
+                srcset="./img/services-img.webp"
+              />
+              <img
+                loading="lazy"
+                src="./img/services-img.webp"
+                alt="Опис зображення"
+                class="services-wrapper-img"
+              />
+            </picture>
+            <p
+              class="services-wrapper-text"
+              data-translate="ofertaPage.mainText"
             >
+              Serwis GauntletSlotAndGem łączy w sobie doświadczenie intensywnej
+              rywalizacji z ekscytującymi możliwościami gier opartych na slotach
+              i wyzwaniach. Naszym głównym celem jest dostarczanie graczom
+              wyjątkowych doznań poprzez innowacyjne podejście do rozgrywki.
+            </p>
           </div>
-          <img
-            src="./img/oferta-img-home.webp"
-            alt=""
-            class="certificates-img"
-          />
         </div>
       </section>
       <section class="section" id="about">
@@ -235,12 +237,18 @@
       <section class="section">
         <div class="container">
           <h2
-            class="our-products-title main-title"
+            class="gallery-title main-title"
             data-translate="towary.mainTitle"
           >
-            Katalog Produktów
+            Galeria Zdjęć z Gry
           </h2>
-          <ul id="our-products" class="our-products-list"></ul>
+          <div class="nav-wrapper">
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+          </div>
+          <div class="swiper">
+            <ul id="gallery" class="gallery-list swiper-wrapper"></ul>
+          </div>
         </div>
       </section>
     </main>
@@ -259,7 +267,7 @@
             </li>
             <li class="footer-nav-item">
               <a
-                href="./about-page.html"
+                href="./o-serwisie-page.html"
                 class="footer-item-text"
                 data-translate="footer.link2"
               >
@@ -312,8 +320,9 @@
       </div>
     </footer>
 
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script type="module" src="./js/gallery.js"></script>
     <!-- <script type="module" src="./js/translator.js"></script> -->
-    <script type="module" src="./js/our-products-home.js"></script>
     <!-- <script src="https://unpkg.com/i18next-xhr-backend@latest/i18nextXHRBackend.min.js"></script>
     <script src="https://unpkg.com/i18next@21.6.11/dist/umd/i18next.min.js"></script> -->
   </body>

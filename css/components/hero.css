@@ -1,5 +1,5 @@
 .hero-home {
-  padding-top: 280px;
+  padding-top: 220px;
   padding-bottom: 160px;
 
   background-image: url(../../img/hero.webp);
@@ -74,13 +74,4 @@
   }
 }
 
-.hero-about {
-  padding-top: 250px;
-  padding-bottom: 160px;
-
-  background-image: url(../../img/hero-about.webp);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 

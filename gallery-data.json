@@ -1,0 +1,54 @@
+{
+  "gallery": [
+    {
+      "id": 1,
+      "photo": "../img/gallery/card-1.jpg",
+      "title": "Snowboard Arena – Miejskie Kasyno"
+    },
+    {
+      "id": 2,
+      "photo": "../img/gallery/card-2.jpg",
+      "title": "Wyspa Więzienna – Kasyno Morskie"
+    },
+    {
+      "id": 3,
+      "photo": "../img/gallery/card-3.jpg",
+      "title": "Posterunek Policji – Ochrona Kasyna"
+    },
+    {
+      "id": 4,
+      "photo": "../img/gallery/card-4.jpg",
+      "title": "Dom na Przedmieściach – Kasyno Rodzinne"
+    },
+    {
+      "id": 5,
+      "photo": "../img/gallery/card-5.jpg",
+      "title": "Domek na Drzewie – Kasyno w Lesie"
+    },
+    {
+      "id": 6,
+      "photo": "../img/gallery/card-6.jpg",
+      "title": "Ogród Spokoju – Kasyno Zen"
+    },
+    {
+      "id": 7,
+      "photo": "../img/gallery/card-7.jpg",
+      "title": "Zamek Himeji – Kasyno Samurajów"
+    },
+    {
+      "id": 8,
+      "photo": "../img/gallery/card-8.jpg",
+      "title": "Boutique Hotel – Kasyno Luksusowe"
+    },
+    {
+      "id": 9,
+      "photo": "../img/gallery/card-9.jpg",
+      "title": "Podziemne Kasyno Minecraft – Przygoda i Hazard"
+    },
+    {
+      "id": 10,
+      "photo": "../img/gallery/card-10.jpg",
+      "title": "Zamek Smoków – Kasyno w Średniowieczu"
+    }
+  ]
+}
