@@ -1,0 +1,197 @@
+{
+  "header": {
+    "link1": "Główny",
+    "link2": "O sklepie",
+    "link3": "Kolekcje",
+    "link4": "Nasza Oferta"
+  },
+  "hero": {
+    "homeTitle": "budowlanaonlinegame",
+    "aboutTitle": "Poznaj nas",
+    "ofertaTitle": " Oferta Usług",
+    "katalogTitle": "Kolekcje",
+    "heroBtn": "do kolekcji",
+
+    "aboutText": "Jesteśmy internetowym sklepem z zestawami konstrukcyjnymi, który specjalizuje się w produktach o unikalnej tematyce, inspirowanej światem gier online.",
+    "productsText": " Oferujemy szeroki wybór zestawów konstrukcyjnych, które odtwarzają fascynujące sceny z gier online i kasyn."
+  },
+  "aboutHome": {
+    "title": "O nas - Twój sklep z unikalnymi zestawami konstrukcyjnymi o tematyce gier hazardowych",
+    "desc": "Jesteśmy internetowym sklepem z zestawami konstrukcyjnymi, oferującym produkty o oryginalnej tematyce gier hazardowych. Nasz asortyment jest skierowany do tych, którzy cenią niestandardowe rozwiązania i chcą urozmaicić swoje doświadczenia z grami. Oferujemy wysokiej jakości zestawy konstrukcyjne, zaprojektowane z dbałością o szczegóły, które doskonale nadają się dla miłośników gier hazardowych i kolekcjonerów.",
+    "aboutBtn": "bliższy"
+  },
+  "aboutPage": {
+    "item1": "esteśmy internetowym sklepem z zestawami konstrukcyjnymi, który specjalizuje się w unikalnych produktach inspirowanych światem gier hazardowych.",
+    "item2": "Nasze zestawy konstrukcyjne odzwierciedlają najpopularniejsze tematy ze świata automatów online i kasyn, takie jak slot online i kasyno online.",
+    "item3": "Dokładnie zbadaliśmy rynek i zauważyliśmy duże zainteresowanie zestawami tematycznymi, które łączą kreatywny proces budowania z elementami popularnych gier.",
+    "item4": "Nasz sklep został stworzony dla tych, którzy szukają niestandardowych rozwiązań i chcą urozmaicić swoje kolekcje zabawek kreatywnymi zestawami. Oferujemy wysokiej jakości, szczegółowo zaprojektowane zestawy konstrukcyjne, które zapewnią godziny ekscytującej zabawy zarówno dzieciom, jak i dorosłym.",
+    "item5": "W naszym sklepie znajdziesz kreatywność, jakość i innowacje, które odpowiadają najnowszym trendom w świecie gier hazardowych i zestawów konstrukcyjnych. Zapraszamy do zapoznania się z naszą ofertą i czerpania prawdziwej przyjemności z zabawy i składania!",
+    "item6": "Nasze produkty są doskonałym wyborem dla kolekcjonerów i miłośników gier hazardowych, którzy chcą przenieść część swoich ulubionych gier do rzeczywistego świata. Staramy się regularnie aktualizować nasz asortyment, oferując nowe tematy i pomysły, aby nasi klienci zawsze mieli możliwość wyboru czegoś nowego i ekscytującego."
+  },
+  "oferta": {
+    "title": "Nasze usługi – kompleksowa obsługa na najwyższym poziomie",
+    "desc": "Oferujemy szeroki zakres usług, w tym kompleksowe konsultacje dotyczące wyboru najlepszych zestawów konstrukcyjnych, dostosowanych do Twoich indywidualnych potrzeb i preferencji. Naszym priorytetem jest szybka i niezawodna dostawa, abyś mógł cieszyć się swoimi produktami jak najszybciej. Po zakupie zapewniamy pełne wsparcie, pomagając w rozwiązywaniu wszelkich pytań czy wątpliwości, aby Twoje doświadczenie zakupowe było jak najbardziej satysfakcjonujące. Naszym celem jest Twoje zadowolenie nie tylko z produktów, ale również z jakości naszej obsługi.",
+    "btn": "bliższy"
+  },
+  "ofertaPage": {
+    "mainText": "Oferujemy szeroki zakres usług, w tym konsultacje dotyczące wyboru najlepszych zestawów konstrukcyjnych, szybką dostawę oraz wsparcie po zakupie. Pracujemy, abyś był zadowolony nie tylko z produktów, ale także z naszej obsługi. Nasze zestawy konstrukcyjne są popularne wśród fanów gier online, takich jak slot online i kasyno online, dzięki swojej unikalnej tematyce.",
+    "title1": "Konsultacje",
+    "title2": "Szybka dostawa",
+    "title3": "Wsparcie po zakupie",
+    "text1": "Pomożemy Ci wybrać najlepszy zestaw konstrukcyjny, biorąc pod uwagę Twoje zainteresowania i potrzeby.",
+    "text2": "Zapewniamy szybką dostawę Twojego zamówienia prosto do Twojego domu.",
+    "text3": "Zawsze jesteśmy gotowi udzielić pomocy po zakupie, aby rozwiązać wszelkie pytania.",
+    "subText": "Nasze zestawy konstrukcyjne są popularne wśród fanów gier online, takich jak slot online i kasyno online, dzięki swojej unikalnej tematyce.",
+
+    "btn": "do kolekcji"
+  },
+  "towary": {
+"mainTitile" : "Katalog Produktów",
+
+    "cardTitle1": "Snowboard Arena – Miejskie Kasyno",
+    "cardDesc1": "Zbuduj swoje własne kasyno miejskie z wyjątkową areną snowboardową. Stwórz nowoczesną strefę hazardową na szczycie budynku, gdzie adrenalina z zawodów snowboardowych łączy się z ekscytującymi grami kasynowymi. Idealny dla fanów miejskich przygód i sportów ekstremalnych!",
+
+    "cardTitle2": "Wyspa Więzienna – Kasyno Morskie",
+    "cardDesc2": "Przenieś swoje kasyno na wyspę więzienną! Zbuduj tajne kasyno na środku morza, gdzie niebezpieczni więźniowie mogą ryzykować wszystko w grach hazardowych. Zorganizuj ucieczki, pościgi wodne i przygody pełne akcji! Idealny dla fanów ekstremalnych przygód i świata kasyn.",
+
+    "cardTitle3": "Posterunek Policji – Ochrona Kasyna",
+    "cardDesc3": "Zadbaj o bezpieczeństwo w mieście LEGO City, chroniąc nowe kasyno! Zbuduj posterunek policji i przechwyć złodziei próbujących obrabować kasyno. Użyj helikoptera, radiowozu i straży, aby złapać przestępców i zapewnić bezpieczeństwo w strefie hazardu!",
+
+    "cardTitle4": "Dom na Przedmieściach – Kasyno Rodzinne",
+    "cardDesc4": "Zbuduj kasyno w uroczym domu na przedmieściach! Stwórz rodzinne kasyno, w którym wszyscy członkowie rodziny mogą brać udział w grach. Idealne połączenie relaksu i hazardu w ciepłej, domowej atmosferze. Doskonała zabawa dla całej rodziny!",
+
+    "cardTitle5": "Domek na Drzewie – Kasyno w Lesie",
+    "cardDesc5": "Zbuduj swoje własne kasyno w sercu lasu! Umieść strefę hazardową w domku na drzewie, gdzie natura spotyka ekscytujące gry kasynowe. Idealne miejsce na relaks i rozrywkę z dala od zgiełku miasta, wśród zieleni i świeżego powietrza!",
+
+    "cardTitle6": "Ogród Spokoju – Kasyno Zen",
+    "cardDesc6": "Zanurz się w spokojnym świecie Kasyna Zen, otoczonego bujną roślinnością i japońską architekturą. Zbuduj wyjątkowe miejsce, gdzie harmonia natury łączy się z emocjami gier kasynowych. Idealne dla tych, którzy szukają chwili relaksu w otoczeniu hazardowej rozrywki.",
+
+    "cardTitle7": "Zamek Himeji – Kasyno Samurajów",
+    "cardDesc7": "Zbuduj majestatyczny zamek samurajów, w którym odbywają się elitarne gry kasynowe. Odkryj sekrety ukryte w starożytnych murach i stwórz miejsce, gdzie tradycja spotyka się z nowoczesnymi rozrywkami hazardowymi. Idealne dla miłośników historii i ekscytujących przygód!",
+
+    "cardTitle8": "Boutique Hotel – Kasyno Luksusowe",
+    "cardDesc8": "Zbuduj ekskluzywny hotel-butik z eleganckim kasynem, gdzie bogactwo i luksus spotykają się z ekscytującymi grami hazardowymi. Zaprojektuj prestiżowe pokoje i strefy rozrywki, przyciągając gości z całego świata. Idealne miejsce na odpoczynek i grę w pełnym przepychu otoczeniu.",
+
+    "cardTitle9": "Podziemne Kasyno Minecraft – Przygoda i Hazard",
+    "cardDesc9": "Odkryj tajemnicze podziemne kasyno w świecie Minecraft! Buduj struktury pełne wyzwań i ryzyka, walcz z przeciwnikami i zdobywaj skarby. Przeżyj ekscytującą przygodę, gdzie hazard spotyka się z legendarną grą Minecraft. Idealne dla fanów Minecrafta i kasynowych emocji!",
+
+    "cardTitle10": "Zamek Smoków – Kasyno w Średniowieczu",
+    "cardDesc10": "Zbuduj potężny średniowieczny zamek, w którym odbywają się legendarnie niebezpieczne gry hazardowe. Stwórz lochy pełne wyzwań i ukrytych skarbów, gdzie rycerze i smoki walczą o złoto i chwałę. Kasyno w świecie smoków i rycerzy czeka na śmiałych graczy!",
+
+    "cardQuantity": "Numer",
+    "cardPrice": "Cena",
+    "mainTitle": "nasze towary",
+    "mainBtn": "przejdź do katalogu"
+  },
+  "buttons": {
+    "toCatalog": "do katalogu",
+    "goHome": "Na głównym"
+  },
+  "payment": {
+    "mainTitle": "Opłata i dostawa",
+
+    "title1": "Metody płatności",
+    "title2": "Opcje dostawy",
+    "title3": "Śledzenie przesyłki",
+    "title4": "Kontakt",
+
+    "text1": "W naszym sklepie internetowym  http://budowlanaonlinegame.com  oferujemy różnorodne, wygodne metody płatności, aby zapewnić komfort zakupów naszym klientom. Możesz wybrać jeden z następujących sposobów płatności:",
+    "text2": "Wszystkie płatności są przetwarzane w bezpieczny sposób, co gwarantuje ochronę Twoich danych osobowych i finansowych.",
+    "text3": "Dostarczamy nasze produkty na terenie Polski oraz do wielu krajów Europy. Oferujemy następujące opcje dostawy:",
+    "text4": "Koszty dostawy są obliczane automatycznie podczas składania zamówienia i zależą od wybranej metody dostawy oraz lokalizacji dostarczenia.",
+    "text5": "Po wysłaniu zamówienia otrzymasz od nas numer śledzenia przesyłki, który umożliwi Ci monitorowanie statusu dostawy w czasie rzeczywistym.",
+    "text6": "W razie jakichkolwiek pytań dotyczących płatności lub dostawy, prosimy o kontakt za pośrednictwem strony Kontakt dostępnej naW razie jakichkolwiek pytań dotyczących płatności lub dostawy, prosimy o kontakt za pośrednictwem strony Kontakt dostępnej na http://budowlanaonlinegame.com .Jesteśmy tu, aby pomóc!",
+
+    "item1": "Płatność kartą kredytową/debetową (Visa, MasterCard)",
+    "item2": "Przelew bankowy",
+    "item3": "Płatność online za pośrednictwem bezpiecznych systemów płatności",
+    "item4": "Płatność za pobraniem przy odbiorze (dotyczy wybranych metod dostawy)",
+    "item5": "Dostawa kurierska (2-5 dni roboczych)",
+    "item6": "Paczkomaty (1-3 dni robocze)",
+    "item7": "Dostawa międzynarodowa (5-10 dni roboczych, w zależności od kraju)"
+  },
+  "rules": {
+    "mainTitle": "Regulamin korzystania z Platformy",
+
+    "title1": "1. Postanowienia ogólne",
+    "title2": "2. Rejestracja i dane osobowe",
+    "title3": "3. Zasady korzystania z platformy",
+    "title4": "4. Odpowiedzialność",
+    "title5": "5. Zmiany w regulaminie",
+    "title6": "6. Kontakt",
+
+    "text1": "Niniejszy regulamin określa zasady korzystania z platformy  http://budowlanaonlinegame.com  Korzystanie z naszej strony internetowej oznacza akceptację niniejszych warunków. Prosimy o uważne zapoznanie się z regulaminem przed dokonaniem jakichkolwiek zakupów.",
+    "text2": "Podczas składania zamówienia użytkownik jest zobowiązany do podania prawdziwych danych, takich jak: imię i nazwisko, numer telefonu oraz adres e-mail. Informacje te są niezbędne do realizacji zamówienia i kontaktu z klientem. http://budowlanaonlinegame.com  gwarantuje ochronę danych osobowych zgodnie z obowiązującymi przepisami o ochronie danych.",
+    "text3": "Użytkownik zobowiązuje się do korzystania z platformy zgodnie z prawem i zasadami określonymi w niniejszym regulaminie. Zabronione jest:",
+    "text4": "Platforma  http://budowlanaonlinegame.com  nie ponosi odpowiedzialności za jakiekolwiek szkody wynikające z niewłaściwego korzystania z jej usług przez użytkownika. W przypadku problemów technicznych z platformą użytkownik ma obowiązek niezwłocznie zgłosić je administratorom strony.",
+    "text5": "Zastrzegamy sobie prawo do dokonywania zmian w niniejszym regulaminie w dowolnym momencie. Wszelkie zmiany zostaną opublikowane na tej stronie i zaczną obowiązywać z chwilą ich opublikowania. Korzystanie z platformy po wprowadzeniu zmian oznacza akceptację nowego regulaminu.",
+    "text6": "W razie pytań dotyczących niniejszego regulaminu prosimy o kontakt za pośrednictwem strony Kontakt dostępnej na http://budowlanaonlinegame.com.",
+
+    "item1": "Korzystanie z platformy w sposób, który narusza obowiązujące przepisy prawa.",
+    "item2": "Przekazywanie nieprawdziwych lub wprowadzających w błąd informacji podczas rejestracji lub składania zamówień.",
+    "item3": "Wykorzystywanie platformy do działań szkodzących jej funkcjonowaniu."
+  },
+  "warranty": {
+    "mainTitle": "Gwarancja i zwroty",
+
+    "title1": "1. Gwarancja na produkty",
+    "title2": "2. Zasady zwrotów",
+    "title3": "3. Proces zwrotu środków",
+    "title4": "4. Wymiana produktów",
+    "title5": "5. Kontakt",
+
+    "text1": "Wszystkie produkty zakupione w sklepie internetowym http://budowlanaonlinegame.com są objęte gwarancją producenta. Gwarancja obejmuje wady fabryczne oraz uszkodzenia wynikające z normalnego użytkowania. Okres gwarancji zależy od konkretnego produktu i jest podany w jego opisie na naszej stronie.",
+    "text2": "W przypadku stwierdzenia wady zakupionego produktu, prosimy o natychmiastowy kontakt z naszym działem obsługi klienta za pośrednictwem strony Kontakt dostępnej na Kontakt.",
+    "text3": "Klient ma prawo do zwrotu zakupionego towaru w ciągu 14 dni od dnia otrzymania przesyłki bez podania przyczyny. Aby skorzystać z prawa do odstąpienia od umowy, prosimy o kontakt z naszym działem obsługi klienta oraz wypełnienie formularza zwrotu dostępnego na stronie.",
+    "text4": "Zwracany produkt musi być w stanie nienaruszonym, w oryginalnym opakowaniu i bez śladów użytkowania. Koszty przesyłki zwrotnej pokrywa klient, chyba że zwrot jest wynikiem błędu z naszej strony (np. wysłanie niewłaściwego produktu).",
+    "text5": "Po otrzymaniu i sprawdzeniu zwróconego towaru, środki zostaną zwrócone na konto klienta w ciągu 14 dni roboczych. Zwrot środków będzie dokonany za pomocą tej samej metody płatności, którą klient użył podczas zakupu, chyba że zostanie ustalone inaczej.",
+    "text6": "W przypadku chęci wymiany produktu na inny, prosimy o kontakt z naszym działem obsługi klienta. Wymiana produktów jest możliwa, o ile zamówiony produkt jest dostępny na stanie. W takim przypadku należy odesłać zakupiony towar, a my wyślemy nowy po otrzymaniu zwróconego produktu.",
+    "text7": "W przypadku pytań dotyczących gwarancji lub zwrotów, prosimy o kontakt z naszym działem obsługi klienta za pośrednictwem strony Kontakt dostępnej na Kontakt. Chętnie odpowiemy na wszelkie pytania i pomożemy w rozwiązaniu ewentualnych problemów."
+  },
+  "privacy": {
+    "mainTitle": "Polityka prywatności",
+
+    "title1": "1. Informacje ogólne",
+    "title2": "2. Zakres gromadzonych danych",
+    "title3": "3. Cele przetwarzania danych",
+    "title4": "4. Ochrona danych",
+    "title5": "5. Prawa użytkowników",
+    "title6": "6. Pliki cookie",
+    "title7": "7. Zmiany w polityce prywatności",
+    "title8": "8. Kontakt",
+
+    "text1": "Niniejsza polityka prywatności określa zasady przetwarzania danych osobowych użytkowników korzystających ze strony internetowej http://budowlanaonlinegame.com . Ochrona prywatności naszych klientów jest dla nas priorytetem, dlatego gromadzimy i przetwarzamy dane osobowe zgodnie z obowiązującymi przepisami prawa, w tym zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 (RODO).",
+    "text2": "Podczas składania zamówienia lub rejestracji na naszej stronie, możemy poprosić o podanie następujących danych:",
+    "text3": "Dane te są niezbędne do realizacji zamówień oraz kontaktu z klientami w razie pytań lub problemów.",
+    "text4": "Przetwarzamy dane osobowe użytkowników w celu:",
+    "text5": "Wszystkie dane osobowe użytkowników są chronione za pomocą odpowiednich środków technicznych i organizacyjnych, które zapewniają ich bezpieczeństwo przed nieautoryzowanym dostępem, zmianą lub zniszczeniem. Dostęp do danych mają jedynie upoważnione osoby, które są zobowiązane do zachowania poufności.",
+    "text6": "Każdy użytkownik ma prawo do:",
+    "text7": "Nasza strona internetowa korzysta z plików cookie w celu poprawy jakości świadczonych usług oraz dostosowania treści do indywidualnych preferencji użytkownika. Użytkownik może zarządzać ustawieniami plików cookie za pomocą przeglądarki internetowej. Szczegółowe informacje na ten temat znajdują się w naszej Polityce Cookies.",
+    "text8": "Zastrzegamy sobie prawo do wprowadzania zmian w niniejszej polityce prywatności. Wszelkie zmiany będą publikowane na tej stronie. Zalecamy regularne przeglądanie polityki w celu zapoznania się z aktualnymi zasadami ochrony danych.",
+    "text9": "W przypadku pytań dotyczących polityki prywatności prosimy o kontakt za pośrednictwem strony Kontakt.",
+
+    "item1": "Imię i nazwisko",
+    "item2": "Adres e-mail",
+    "item3": "Numer telefonu",
+    "item4": "Adres dostawy",
+    "item5": "Realizacji zamówień złożonych przez użytkowników",
+    "item6": "Kontaktowania się w sprawach związanych z zamówieniami",
+    "item7": "Informowania o nowościach, promocjach oraz ofertach specjalnych, jeśli użytkownik wyraził zgodę na otrzymywanie newslettera",
+    "item8": "Poprawy funkcjonalności strony oraz analizy ruchu na stronie",
+    "item9": "Dostępu do swoich danych osobowych",
+    "item10": "Poprawiania, usuwania lub ograniczenia przetwarzania danych",
+    "item11": "Wycofania zgody na przetwarzanie danych w dowolnym momencie",
+    "item12": "Przenoszenia danych do innego administratora danych",
+    "item13": "Złożenia skargi do organu nadzorczego w przypadku naruszenia przepisów dotyczących ochrony danych osobowych"
+  },
+  "footer": {
+    "link1": "Główny",
+    "link2": "O sklepie",
+    "link3": "Kolekcje",
+    "link4": "Oferta Usług",
+    "link5": "Polityka prywatności |",
+    "link6": "Regulamin korzystania z Platformy |",
+    "link7": "Gwarancja i zwroty |",
+    "link8": "Opłata i dostawa"
+  }
+}

@@ -1,0 +1,11 @@
+:root {
+  --font-family: "Inter", sans-serif;
+
+  --main-color: #4b5320;
+  --more-color: #2f2f2f;
+  --accent-color: #d89c00;
+  --bg-color: #e0e0e0;
+
+  --text-color: #ffffff;
+  --black-text-color: #000000;
+}

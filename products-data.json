@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "photo": "../img/product-card/card-1.jpg",
+      "title": "Snowboard Arena – Miejskie Kasyno",
+      "price": "599",
+      "description": "Zbuduj swoje własne kasyno miejskie z wyjątkową areną snowboardową. Stwórz nowoczesną strefę hazardową na szczycie budynku, gdzie adrenalina z zawodów snowboardowych łączy się z ekscytującymi grami kasynowymi. Idealny dla fanów miejskich przygód i sportów ekstremalnych!"
+    },
+    {
+      "id": 2,
+      "photo": "../img/product-card/card-2.jpg",
+      "title": "Wyspa Więzienna – Kasyno Morskie",
+      "price": "249",
+      "description": "Przenieś swoje kasyno na wyspę więzienną! Zbuduj tajne kasyno na środku morza, gdzie niebezpieczni więźniowie mogą ryzykować wszystko w grach hazardowych. Zorganizuj ucieczki, pościgi wodne i przygody pełne akcji! Idealny dla fanów ekstremalnych przygód i świata kasyn."
+    },
+    {
+      "id": 3,
+      "photo": "../img/product-card/card-3.jpg",
+      "title": "Posterunek Policji – Ochrona Kasyna",
+      "price": "399",
+      "description": "Zadbaj o bezpieczeństwo w mieście LEGO City, chroniąc nowe kasyno! Zbuduj posterunek policji i przechwyć złodziei próbujących obrabować kasyno. Użyj helikoptera, radiowozu i straży, aby złapać przestępców i zapewnić bezpieczeństwo w strefie hazardu!"
+    },
+    {
+      "id": 4,
+      "photo": "../img/product-card/card-4.jpg",
+      "title": "Dom na Przedmieściach – Kasyno Rodzinne",
+      "price": "349",
+      "description": "Zbuduj kasyno w uroczym domu na przedmieściach! Stwórz rodzinne kasyno, w którym wszyscy członkowie rodziny mogą brać udział w grach. Idealne połączenie relaksu i hazardu w ciepłej, domowej atmosferze. Doskonała zabawa dla całej rodziny!"
+    },
+    {
+      "id": 5,
+      "photo": "../img/product-card/card-5.jpg",
+      "title": "Domek na Drzewie – Kasyno w Lesie",
+      "price": "199",
+      "description": "Zbuduj swoje własne kasyno w sercu lasu! Umieść strefę hazardową w domku na drzewie, gdzie natura spotyka ekscytujące gry kasynowe. Idealne miejsce na relaks i rozrywkę z dala od zgiełku miasta, wśród zieleni i świeżego powietrza!"
+    },
+    {
+      "id": 6,
+      "photo": "../img/product-card/card-6.jpg",
+      "title": "Ogród Spokoju – Kasyno Zen",
+      "price": "299",
+      "description": "Zanurz się w spokojnym świecie Kasyna Zen, otoczonego bujną roślinnością i japońską architekturą. Zbuduj wyjątkowe miejsce, gdzie harmonia natury łączy się z emocjami gier kasynowych. Idealne dla tych, którzy szukają chwili relaksu w otoczeniu hazardowej rozrywki."
+    },
+    {
+      "id": 7,
+      "photo": "../img/product-card/card-7.jpg",
+      "title": "Zamek Himeji – Kasyno Samurajów",
+      "price": "899",
+      "description": "Zbuduj majestatyczny zamek samurajów, w którym odbywają się elitarne gry kasynowe. Odkryj sekrety ukryte w starożytnych murach i stwórz miejsce, gdzie tradycja spotyka się z nowoczesnymi rozrywkami hazardowymi. Idealne dla miłośników historii i ekscytujących przygód!"
+    },
+    {
+      "id": 8,
+      "photo": "../img/product-card/card-8.jpg",
+      "title": "Boutique Hotel – Kasyno Luksusowe",
+      "price": "799",
+      "description": "Zbuduj ekskluzywny hotel-butik z eleganckim kasynem, gdzie bogactwo i luksus spotykają się z ekscytującymi grami hazardowymi. Zaprojektuj prestiżowe pokoje i strefy rozrywki, przyciągając gości z całego świata. Idealne miejsce na odpoczynek i grę w pełnym przepychu otoczeniu."
+    },
+    {
+      "id": 9,
+      "photo": "../img/product-card/card-9.jpg",
+      "title": "Podziemne Kasyno Minecraft – Przygoda i Hazard",
+      "price": "1099",
+      "description": "Odkryj tajemnicze podziemne kasyno w świecie Minecraft! Buduj struktury pełne wyzwań i ryzyka, walcz z przeciwnikami i zdobywaj skarby. Przeżyj ekscytującą przygodę, gdzie hazard spotyka się z legendarną grą Minecraft. Idealne dla fanów Minecrafta i kasynowych emocji!"
+    },
+    {
+      "id": 10,
+      "photo": "../img/product-card/card-10.jpg",
+      "title": "Zamek Smoków – Kasyno w Średniowieczu",
+      "price": "11000",
+      "description": "Zbuduj potężny średniowieczny zamek, w którym odbywają się legendarnie niebezpieczne gry hazardowe. Stwórz lochy pełne wyzwań i ukrytych skarbów, gdzie rycerze i smoki walczą o złoto i chwałę. Kasyno w świecie smoków i rycerzy czeka na śmiałych graczy!"
+    }
+  ]
+}

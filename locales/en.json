@@ -1,0 +1,197 @@
+{
+  "header": {
+    "link1": "Home",
+    "link2": "About Us",
+    "link3": "Collections",
+    "link4": "Our Offer"
+  },
+  "hero": {
+    "homeTitle": "budowlanaonlinegame",
+    "aboutTitle": "Get to Know Us",
+    "ofertaTitle": "Service Offer",
+    "katalogTitle": "Collections",
+    "heroBtn": "to collections",
+
+    "aboutText": "We are an online store offering construction sets with a unique theme inspired by the world of online games.",
+    "productsText": " We offer a wide selection of construction sets that recreate fascinating scenes from online games and casinos."
+  },
+  "aboutHome": {
+    "title": "About Us - Your Store with Unique Construction Sets on Gambling Themes",
+    "desc": "We are an online store offering construction sets with an original gambling theme. Our range is aimed at those who value unconventional solutions and want to enrich their gaming experience. We offer high-quality construction sets, designed with attention to detail, perfect for gambling enthusiasts and collectors.",
+    "aboutBtn": "learn more"
+  },
+  "aboutPage": {
+    "item1": "We are an online store offering construction sets with a unique gambling theme inspired by the world of online games.",
+    "item2": "Our construction sets reflect the most popular themes from the world of online slots and casinos, such as slot online and casino online.",
+    "item3": "We have thoroughly researched the market and noticed a strong interest in themed sets that combine the creative building process with elements of popular games.",
+    "item4": "Our store was created for those who seek unconventional solutions and want to enrich their toy collections with creative sets. We offer high-quality, meticulously designed construction sets that will provide hours of exciting play for both children and adults.",
+    "item5": "In our store, you will find creativity, quality, and innovation that align with the latest trends in the world of gambling and construction sets. We invite you to explore our offer and enjoy the pleasure of playing and building!",
+    "item6": "Our products are a great choice for collectors and gambling enthusiasts who want to bring a part of their favorite games into the real world. We strive to regularly update our range, offering new themes and ideas, so our customers always have something new and exciting to choose from."
+  },
+  "oferta": {
+    "title": "Our Services – Comprehensive Support at the Highest Level",
+    "desc": "We offer a wide range of services, including comprehensive consultations on choosing the best construction sets tailored to your individual needs and preferences. Our priority is fast and reliable delivery, so you can enjoy your products as soon as possible. After your purchase, we provide full support, helping to resolve any questions or issues to make your shopping experience as satisfying as possible. Our goal is your satisfaction, not only with the products but also with the quality of our service.",
+    "btn": "learn more"
+  },
+  "ofertaPage": {
+    "mainText": "We offer a wide range of services, including consultations on choosing the best construction sets, fast delivery, and post-purchase support. We work to ensure you are satisfied not only with the products but also with our service. Our construction sets are popular among fans of online games, such as slot online and casino online, thanks to their unique themes.",
+    "title1": "Consultations",
+    "title2": "Fast Delivery",
+    "title3": "Post-Purchase Support",
+    "text1": "We will help you choose the best construction set based on your interests and needs.",
+    "text2": "We ensure quick delivery of your order directly to your home.",
+    "text3": "We are always ready to provide assistance after purchase to address any questions.",
+    "subText": "Our construction sets are popular among fans of online games, such as slot online and casino online, thanks to their unique themes.",
+
+    "btn": "to collections"
+  },
+  "towary": {
+    "mainTitile": "Product Catalog",
+
+    "cardTitle1": "Snowboard Arena – City Casino",
+    "cardDesc1": "Build your own city casino with a unique snowboard arena. Create a modern gaming zone at the top of the building, where the adrenaline of snowboard competitions meets the excitement of casino games. Perfect for fans of urban adventures and extreme sports!",
+
+    "cardTitle2": "Prison Island – Sea Casino",
+    "cardDesc2": "Move your casino to Prison Island! Build a secret casino in the middle of the sea, where dangerous prisoners can risk everything in thrilling games. Organize escapes, water chases, and action-packed adventures! Perfect for fans of extreme adventures and casino excitement.",
+
+    "cardTitle3": "Police Station – Casino Protection",
+    "cardDesc3": "Ensure safety in LEGO City by protecting the new casino! Build a police station and catch thieves trying to rob the casino. Use a helicopter, police cars, and security forces to capture the criminals and guarantee safety in the gaming zone!",
+
+    "cardTitle4": "Suburban House – Family Casino",
+    "cardDesc4": "Build a casino in a charming suburban house! Create a family-friendly casino where all family members can join the fun. The perfect combination of relaxation and gaming in a warm, homey atmosphere. Great fun for the whole family!",
+
+    "cardTitle5": "Treehouse – Forest Casino",
+    "cardDesc5": "Build your own casino in the heart of the forest! Set up a gaming zone in a treehouse where nature meets exciting casino games. The perfect place for relaxation and entertainment away from the city, surrounded by greenery and fresh air!",
+
+    "cardTitle6": "Zen Garden – Tranquil Casino",
+    "cardDesc6": "Immerse yourself in the serene world of the Zen Casino, surrounded by lush vegetation and Japanese architecture. Build a unique place where the harmony of nature meets the excitement of casino games. Perfect for those seeking relaxation with a touch of gambling fun.",
+
+    "cardTitle7": "Himeji Castle – Samurai Casino",
+    "cardDesc7": "Build a majestic samurai castle where elite casino games take place. Discover secrets hidden within ancient walls and create a place where tradition meets modern casino entertainment. Perfect for history lovers and thrill-seekers!",
+
+    "cardTitle8": "Boutique Hotel – Luxury Casino",
+    "cardDesc8": "Build an exclusive boutique hotel with a luxurious casino where wealth and opulence meet thrilling games. Design prestigious rooms and entertainment areas, attracting guests from around the world. The perfect place for relaxation and gaming in a luxurious setting.",
+
+    "cardTitle9": "Underground Minecraft Casino – Adventure & Gambling",
+    "cardDesc9": "Discover the mysterious underground casino in the world of Minecraft! Build structures full of challenges and risk, fight enemies, and collect treasures. Experience an exciting adventure where gambling meets the legendary game of Minecraft. Perfect for Minecraft fans and casino enthusiasts!",
+
+    "cardTitle10": "Dragon Castle – Medieval Casino",
+    "cardDesc10": "Build a powerful medieval castle where dangerously legendary casino games take place. Create dungeons full of challenges and hidden treasures, where knights and dragons fight for gold and glory. A casino in the world of dragons and knights awaits bold players!",
+
+    "cardQuantity": "Number",
+    "cardPrice": "Price",
+    "mainTitle": "our products",
+    "mainBtn": "go to catalog"
+  },
+  "buttons": {
+    "toCatalog": "to catalog",
+    "goHome": "Go to Home"
+  },
+  "payment": {
+    "mainTitle": "Payment and Delivery",
+
+    "title1": "Payment Methods",
+    "title2": "Delivery Options",
+    "title3": "Order Tracking",
+    "title4": "Contact",
+
+    "text1": "On our website http://budowlanaonlinegame.com, we offer various convenient payment methods to ensure a smooth shopping experience for our customers. You can choose one of the following payment methods:",
+    "text2": "All payments are processed securely, ensuring the protection of your personal and financial data.",
+    "text3": "We deliver our products within Poland and to many countries across Europe. We offer the following delivery options:",
+    "text4": "Delivery costs are calculated automatically during the checkout process and depend on the selected delivery method and the destination.",
+    "text5": "Once your order is shipped, we will send you a tracking number, allowing you to monitor the delivery status in real time.",
+    "text6": "For any questions regarding payment or delivery, please contact us through the Contact page available at http://budowlanaonlinegame.com. We are here to help!",
+
+    "item1": "Credit/debit card payment (Visa, MasterCard)",
+    "item2": "Bank transfer",
+    "item3": "Online payment via secure payment systems",
+    "item4": "Cash on delivery (available for selected delivery methods)",
+    "item5": "Courier delivery (2-5 business days)",
+    "item6": "Parcel lockers (1-3 business days)",
+    "item7": "International delivery (5-10 business days, depending on the country)"
+  },
+  "rules": {
+    "mainTitle": "Platform Usage Rules",
+
+    "title1": "1. General Provisions",
+    "title2": "2. Registration and Personal Data",
+    "title3": "3. Platform Usage Rules",
+    "title4": "4. Liability",
+    "title5": "5. Changes to the Rules",
+    "title6": "6. Contact",
+
+    "text1": "These rules outline the terms of using the platform http://budowlanaonlinegame.com. Using our website implies acceptance of these terms. Please carefully review the rules before making any purchases.",
+    "text2": "When placing an order, the user is required to provide accurate information, such as name, phone number, and email address. This information is necessary for order fulfillment and customer contact. http://budowlanaonlinegame.com guarantees the protection of personal data in accordance with applicable data protection regulations.",
+    "text3": "The user agrees to use the platform in accordance with the law and the rules outlined in this document. The following actions are prohibited:",
+    "text4": "http://budowlanaonlinegame.com is not responsible for any damages resulting from improper use of its services by the user. In case of technical issues with the platform, the user must promptly report them to the website administrators.",
+    "text5": "We reserve the right to make changes to these terms at any time. All changes will be posted on this page and will take effect upon publication. Continuing to use the platform after changes have been made constitutes acceptance of the new terms.",
+    "text6": "For any questions regarding these terms, please contact us through the Contact page available at http://budowlanaonlinegame.com.",
+
+    "item1": "Using the platform in a manner that violates applicable laws.",
+    "item2": "Providing false or misleading information during registration or when placing orders.",
+    "item3": "Using the platform in ways that harm its functionality."
+  },
+  "warranty": {
+    "mainTitle": "Warranty and Returns",
+
+    "title1": "1. Product Warranty",
+    "title2": "2. Return Policy",
+    "title3": "3. Refund Process",
+    "title4": "4. Product Exchange",
+    "title5": "5. Contact",
+
+    "text1": "All products purchased from the online store http://budowlanaonlinegame.com come with a manufacturer's warranty. The warranty covers manufacturing defects and damage resulting from normal use. The warranty period depends on the specific product and is stated in its description on our website.",
+    "text2": "If you discover a defect in the purchased product, please contact our customer service team immediately through the Contact page available at Contact.",
+    "text3": "Customers have the right to return purchased goods within 14 days of receiving the shipment without providing a reason. To exercise the right of withdrawal, please contact our customer service team and complete the return form available on the website.",
+    "text4": "The returned product must be in its original condition, in the original packaging, and show no signs of use. The return shipping cost is covered by the customer unless the return is due to our error (e.g., sending the wrong product).",
+    "text5": "After receiving and inspecting the returned product, the refund will be processed within 14 business days. The refund will be made using the same payment method used by the customer at the time of purchase, unless otherwise agreed.",
+    "text6": "If you wish to exchange the product for another one, please contact our customer service team. Product exchanges are possible if the ordered product is in stock. In such cases, the purchased item must be returned, and we will send the new product after receiving the returned item.",
+    "text7": "For questions regarding warranties or returns, please contact our customer service team through the Contact page available at Contact. We are happy to answer any questions and assist with resolving any issues."
+  },
+  "privacy": {
+    "mainTitle": "Privacy Policy",
+
+    "title1": "1. General Information",
+    "title2": "2. Data Collected",
+    "title3": "3. Purposes of Data Processing",
+    "title4": "4. Data Protection",
+    "title5": "5. User Rights",
+    "title6": "6. Cookies",
+    "title7": "7. Changes to the Privacy Policy",
+    "title8": "8. Contact",
+
+    "text1": "This privacy policy outlines the rules for processing personal data of users using the website http://budowlanaonlinegame.com. Protecting the privacy of our customers is our priority, which is why we collect and process personal data in accordance with applicable laws, including Regulation (EU) 2016/679 (GDPR).",
+    "text2": "When placing an order or registering on our website, we may ask you to provide the following information:",
+    "text3": "This information is necessary for fulfilling orders and contacting customers in case of questions or issues.",
+    "text4": "We process users' personal data for the following purposes:",
+    "text5": "All personal data is protected using appropriate technical and organizational measures to ensure its security against unauthorized access, modification, or destruction. Only authorized personnel have access to the data, and they are required to maintain confidentiality.",
+    "text6": "Every user has the right to:",
+    "text7": "Our website uses cookies to improve the quality of the services provided and to tailor content to the user's individual preferences. Users can manage their cookie settings through their web browser. Detailed information on this topic can be found in our Cookie Policy.",
+    "text8": "We reserve the right to make changes to this privacy policy. All changes will be posted on this page. We recommend regularly reviewing the policy to stay informed of the latest data protection rules.",
+    "text9": "For any questions regarding the privacy policy, please contact us through the Contact page.",
+
+    "item1": "Name",
+    "item2": "Email address",
+    "item3": "Phone number",
+    "item4": "Delivery address",
+    "item5": "Fulfilling orders placed by users",
+    "item6": "Contacting customers regarding their orders",
+    "item7": "Providing information about new products, promotions, and special offers if the user has consented to receive newsletters",
+    "item8": "Improving the functionality of the website and analyzing traffic",
+    "item9": "Accessing their personal data",
+    "item10": "Correcting, deleting, or limiting the processing of data",
+    "item11": "Withdrawing consent for data processing at any time",
+    "item12": "Transferring data to another data controller",
+    "item13": "Filing a complaint with a supervisory authority in case of a violation of data protection regulations"
+  },
+  "footer": {
+    "link1": "Home",
+    "link2": "About Us",
+    "link3": "Collections",
+    "link4": "Service Offer",
+    "link5": "Privacy Policy |",
+    "link6": "Platform Usage Rules |",
+    "link7": "Warranty and Returns |",
+    "link8": "Payment and Delivery"
+  }
+}
