@@ -57,7 +57,7 @@
             <a
               href="./o-serwisie-page.html"
               class="hero-link"
-              data-translate="buttons.toCatalog"
+              data-translate="hero.heroBtn"
               >O serwisie</a
             >
           </div>
@@ -65,7 +65,9 @@
       </section>
       <section class="section">
         <div class="container services">
-          <h2 class="main-title services-title">O GauntletSlotAndGem</h2>
+          <h2 class="main-title services-title" data-translate="services.title">
+            O GauntletSlotAndGem
+          </h2>
           <div class="services-wrapper">
             <picture>
               <source
@@ -83,10 +85,7 @@
                 class="services-wrapper-img"
               />
             </picture>
-            <p
-              class="services-wrapper-text"
-              data-translate="ofertaPage.mainText"
-            >
+            <p class="services-wrapper-text" data-translate="services.desc">
               Serwis GauntletSlotAndGem łączy w sobie doświadczenie intensywnej
               rywalizacji z ekscytującymi możliwościami gier opartych na slotach
               i wyzwaniach. Naszym głównym celem jest dostarczanie graczom
@@ -97,14 +96,17 @@
       </section>
       <section class="section" id="about">
         <div class="container">
-          <h2 class="main-title game-title">
+          <h2
+            class="main-title game-title"
+            data-translate="aboutGame.maintitle"
+          >
             Ekscytująca Rozgrywka w PUBG: Walka o Przetrwanie
           </h2>
           <ul class="game-list">
             <li class="game-item">
               <div class="game-wrapper">
-                <h3>Wprowadzenie do PUBG</h3>
-                <p>
+                <h3 data-translate="aboutGame.title1">Wprowadzenie do PUBG</h3>
+                <p data-translate="aboutGame.desc1">
                   Gra PUBG (PlayerUnknown's Battlegrounds) to jedna z
                   najbardziej ekscytujących gier typu battle royale. Jej
                   unikalny styl przyciąga miliony graczy na całym świecie.
@@ -129,8 +131,8 @@
             </li>
             <li class="game-item">
               <div class="game-wrapper">
-                <h3>Rozpoczęcie Gry</h3>
-                <p>
+                <h3 data-translate="aboutGame.title2">Rozpoczęcie Gry</h3>
+                <p data-translate="aboutGame.desc2">
                   Gracze zostają zrzuceni na ogromną wyspę, pełną ukrytych
                   zasobów i broni. Od momentu lądowania, każdy krok może
                   zdecydować o ich przetrwaniu.
@@ -155,8 +157,8 @@
             </li>
             <li class="game-item">
               <div class="game-wrapper">
-                <h3>Walka o Przetrwanie</h3>
-                <p>
+                <h3 data-translate="aboutGame.title3">Walka o Przetrwanie</h3>
+                <p data-translate="aboutGame.desc3">
                   Aby przetrwać, gracze muszą zbierać broń, amunicję oraz inne
                   potrzebne zasoby. Kluczowym elementem jest umiejętne
                   korzystanie z dostępnych przedmiotów.
@@ -181,8 +183,8 @@
             </li>
             <li class="game-item">
               <div class="game-wrapper">
-                <h3>Cel Rozgrywki</h3>
-                <p>
+                <h3 data-translate="aboutGame.title4">Cel Rozgrywki</h3>
+                <p data-translate="aboutGame.desc4">
                   Ostatecznym celem jest pozostanie ostatnim żywym graczem lub
                   drużyną. W tej walce nie ma miejsca na pomyłki – każda decyzja
                   ma znaczenie.
@@ -207,8 +209,8 @@
             </li>
             <li class="game-item">
               <div class="game-wrapper">
-                <h3>Wymagania Gry</h3>
-                <p>
+                <h3 data-translate="aboutGame.title5">Wymagania Gry</h3>
+                <p data-translate="aboutGame.desc5">
                   Każda rozgrywka wymaga od graczy strategii, szybkiego refleksu
                   oraz współpracy z zespołem. Czy masz w sobie determinację, aby
                   przetrwać do końca?
@@ -238,7 +240,7 @@
         <div class="container">
           <h2
             class="gallery-title main-title"
-            data-translate="towary.mainTitle"
+            data-translate="aboutGame.subtitle"
           >
             Galeria Zdjęć z Gry
           </h2>
@@ -309,21 +311,14 @@
           >
             Gwarancja i zwroty |</a
           >
-          <a
-            href="./opłata-page.html"
-            class="footer-item-link"
-            data-translate="footer.link8"
-          >
-            Opłata i dostawa</a
-          >
         </div>
       </div>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script type="module" src="./js/gallery.js"></script>
-    <!-- <script type="module" src="./js/translator.js"></script> -->
-    <!-- <script src="https://unpkg.com/i18next-xhr-backend@latest/i18nextXHRBackend.min.js"></script>
-    <script src="https://unpkg.com/i18next@21.6.11/dist/umd/i18next.min.js"></script> -->
+    <script type="module" src="./js/translator.js"></script>
+    <script src="https://unpkg.com/i18next-xhr-backend@latest/i18nextXHRBackend.min.js"></script>
+    <script src="https://unpkg.com/i18next@21.6.11/dist/umd/i18next.min.js"></script>
   </body>
 </html>

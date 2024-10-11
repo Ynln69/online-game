@@ -1,115 +1,49 @@
 {
   "header": {
     "link1": "Główny",
-    "link2": "O sklepie",
-    "link3": "Kolekcje",
-    "link4": "Nasza Oferta"
+    "link2": "O serwisie",
+    "link3": "O grze"
   },
   "hero": {
     "homeTitle": "budowlanaonlinegame",
-    "aboutTitle": "Poznaj nas",
-    "ofertaTitle": " Oferta Usług",
-    "katalogTitle": "Kolekcje",
-    "heroBtn": "do kolekcji",
+    "servicesTitle": "Serwis GauntletSlotAndGem",
+    "servicesText": "Zespół GauntletSlotAndGem dba o to, aby nasza platforma była stale rozwijana i dostosowana do potrzeb użytkowników.",
+    "heroBtn": "O serwisie",
 
-    "aboutText": "Jesteśmy internetowym sklepem z zestawami konstrukcyjnymi, który specjalizuje się w produktach o unikalnej tematyce, inspirowanej światem gier online.",
-    "productsText": " Oferujemy szeroki wybór zestawów konstrukcyjnych, które odtwarzają fascynujące sceny z gier online i kasyn."
+    "aboutText": "Zespół GauntletSlotAndGem dba o to, aby nasza platforma była stale rozwijana i dostosowana do potrzeb użytkowników."
   },
-  "aboutHome": {
-    "title": "O nas - Twój sklep z unikalnymi zestawami konstrukcyjnymi o tematyce gier hazardowych",
-    "desc": "Jesteśmy internetowym sklepem z zestawami konstrukcyjnymi, oferującym produkty o oryginalnej tematyce gier hazardowych. Nasz asortyment jest skierowany do tych, którzy cenią niestandardowe rozwiązania i chcą urozmaicić swoje doświadczenia z grami. Oferujemy wysokiej jakości zestawy konstrukcyjne, zaprojektowane z dbałością o szczegóły, które doskonale nadają się dla miłośników gier hazardowych i kolekcjonerów.",
-    "aboutBtn": "bliższy"
+  "aboutGame": {
+    "maintitle": "Ekscytująca Rozgrywka w PUBG: Walka o Przetrwanie",
+    "title1": "Wprowadzenie do PUBG",
+    "title2": "Rozpoczęcie Gry",
+    "title3": "Walka o Przetrwanie",
+    "title4": "Cel Rozgrywki",
+    "title5": "Wymagania Gry",
+
+    "desc1": "Gra PUBG (PlayerUnknown's Battlegrounds) to jedna z najbardziej ekscytujących gier typu battle royale. Jej unikalny styl przyciąga miliony graczy na całym świecie.",
+    "desc2": "Gracze zostają zrzuceni na ogromną wyspę, pełną ukrytych zasobów i broni. Od momentu lądowania, każdy krok może zdecydować o ich przetrwaniu.",
+    "desc3": "Aby przetrwać, gracze muszą zbierać broń, amunicję oraz inne potrzebne zasoby. Kluczowym elementem jest umiejętne korzystanie z dostępnych przedmiotów.",
+    "desc4": "Ostatecznym celem jest pozostanie ostatnim żywym graczem lub drużyną. W tej walce nie ma miejsca na pomyłki – każda decyzja ma znaczenie.",
+    "desc5": "Każda rozgrywka wymaga od graczy strategii, szybkiego refleksu oraz współpracy z zespołem. Czy masz w sobie determinację, aby przetrwać do końca?",
+
+    "subtitle": "Galeria Zdjęć z Gry"
   },
-  "aboutPage": {
-    "item1": "esteśmy internetowym sklepem z zestawami konstrukcyjnymi, który specjalizuje się w unikalnych produktach inspirowanych światem gier hazardowych.",
-    "item2": "Nasze zestawy konstrukcyjne odzwierciedlają najpopularniejsze tematy ze świata automatów online i kasyn, takie jak slot online i kasyno online.",
-    "item3": "Dokładnie zbadaliśmy rynek i zauważyliśmy duże zainteresowanie zestawami tematycznymi, które łączą kreatywny proces budowania z elementami popularnych gier.",
-    "item4": "Nasz sklep został stworzony dla tych, którzy szukają niestandardowych rozwiązań i chcą urozmaicić swoje kolekcje zabawek kreatywnymi zestawami. Oferujemy wysokiej jakości, szczegółowo zaprojektowane zestawy konstrukcyjne, które zapewnią godziny ekscytującej zabawy zarówno dzieciom, jak i dorosłym.",
-    "item5": "W naszym sklepie znajdziesz kreatywność, jakość i innowacje, które odpowiadają najnowszym trendom w świecie gier hazardowych i zestawów konstrukcyjnych. Zapraszamy do zapoznania się z naszą ofertą i czerpania prawdziwej przyjemności z zabawy i składania!",
-    "item6": "Nasze produkty są doskonałym wyborem dla kolekcjonerów i miłośników gier hazardowych, którzy chcą przenieść część swoich ulubionych gier do rzeczywistego świata. Staramy się regularnie aktualizować nasz asortyment, oferując nowe tematy i pomysły, aby nasi klienci zawsze mieli możliwość wyboru czegoś nowego i ekscytującego."
+  "services": {
+    "title": "O GauntletSlotAndGem",
+    "desc": "Serwis GauntletSlotAndGem łączy w sobie doświadczenie intensywnej rywalizacji z ekscytującymi możliwościami gier opartych na slotach i wyzwaniach. Naszym głównym celem jest dostarczanie graczom wyjątkowych doznań poprzez innowacyjne podejście do rozgrywki."
   },
-  "oferta": {
-    "title": "Nasze usługi – kompleksowa obsługa na najwyższym poziomie",
-    "desc": "Oferujemy szeroki zakres usług, w tym kompleksowe konsultacje dotyczące wyboru najlepszych zestawów konstrukcyjnych, dostosowanych do Twoich indywidualnych potrzeb i preferencji. Naszym priorytetem jest szybka i niezawodna dostawa, abyś mógł cieszyć się swoimi produktami jak najszybciej. Po zakupie zapewniamy pełne wsparcie, pomagając w rozwiązywaniu wszelkich pytań czy wątpliwości, aby Twoje doświadczenie zakupowe było jak najbardziej satysfakcjonujące. Naszym celem jest Twoje zadowolenie nie tylko z produktów, ale również z jakości naszej obsługi.",
-    "btn": "bliższy"
+  "servicesPage": {
+    "title1": "Nowatorska Platforma",
+    "title2": "Ekskluzywne Turnieje i Nagrody",
+    "title3": "Tworzenie Globalnej Społeczności",
+    "title4": "Stały Rozwój i Wsparcie Techniczne",
+
+    "text1": "Serwis GauntletSlotAndGem to innowacyjna platforma, która przenosi doświadczenie gier battle royale, takich jak PUBG, na zupełnie nowy poziom. Naszym celem jest zapewnienie graczom niezapomnianych wrażeń, łącząc tradycyjne rozgrywki z nowymi możliwościami.",
+    "text2": "Dzięki naszej platformie, gracze mogą nie tylko brać udział w klasycznych rozgrywkach, ale także uczestniczyć w ekskluzywnych turniejach, zdobywać nagrody za najlepsze wyniki oraz cieszyć się dodatkowymi wyzwaniami.",
+    "text3": "Naszym priorytetem jest budowanie społeczności, która łączy graczy z całego świata. Dzięki rozbudowanym możliwościom, oferujemy graczom unikalne doświadczenia oraz szansę na rywalizację na najwyższym poziomie.",
+    "text4": "Zespół GauntletSlotAndGem nieustannie pracuje nad rozwojem platformy, dostosowując ją do potrzeb użytkowników. Oferujemy pełne wsparcie techniczne, bezpieczne transakcje oraz gwarantujemy doskonałą rozrywkę w bezpiecznym środowisku."
   },
-  "ofertaPage": {
-    "mainText": "Oferujemy szeroki zakres usług, w tym konsultacje dotyczące wyboru najlepszych zestawów konstrukcyjnych, szybką dostawę oraz wsparcie po zakupie. Pracujemy, abyś był zadowolony nie tylko z produktów, ale także z naszej obsługi. Nasze zestawy konstrukcyjne są popularne wśród fanów gier online, takich jak slot online i kasyno online, dzięki swojej unikalnej tematyce.",
-    "title1": "Konsultacje",
-    "title2": "Szybka dostawa",
-    "title3": "Wsparcie po zakupie",
-    "text1": "Pomożemy Ci wybrać najlepszy zestaw konstrukcyjny, biorąc pod uwagę Twoje zainteresowania i potrzeby.",
-    "text2": "Zapewniamy szybką dostawę Twojego zamówienia prosto do Twojego domu.",
-    "text3": "Zawsze jesteśmy gotowi udzielić pomocy po zakupie, aby rozwiązać wszelkie pytania.",
-    "subText": "Nasze zestawy konstrukcyjne są popularne wśród fanów gier online, takich jak slot online i kasyno online, dzięki swojej unikalnej tematyce.",
 
-    "btn": "do kolekcji"
-  },
-  "towary": {
-"mainTitile" : "Katalog Produktów",
-
-    "cardTitle1": "Snowboard Arena – Miejskie Kasyno",
-    "cardDesc1": "Zbuduj swoje własne kasyno miejskie z wyjątkową areną snowboardową. Stwórz nowoczesną strefę hazardową na szczycie budynku, gdzie adrenalina z zawodów snowboardowych łączy się z ekscytującymi grami kasynowymi. Idealny dla fanów miejskich przygód i sportów ekstremalnych!",
-
-    "cardTitle2": "Wyspa Więzienna – Kasyno Morskie",
-    "cardDesc2": "Przenieś swoje kasyno na wyspę więzienną! Zbuduj tajne kasyno na środku morza, gdzie niebezpieczni więźniowie mogą ryzykować wszystko w grach hazardowych. Zorganizuj ucieczki, pościgi wodne i przygody pełne akcji! Idealny dla fanów ekstremalnych przygód i świata kasyn.",
-
-    "cardTitle3": "Posterunek Policji – Ochrona Kasyna",
-    "cardDesc3": "Zadbaj o bezpieczeństwo w mieście LEGO City, chroniąc nowe kasyno! Zbuduj posterunek policji i przechwyć złodziei próbujących obrabować kasyno. Użyj helikoptera, radiowozu i straży, aby złapać przestępców i zapewnić bezpieczeństwo w strefie hazardu!",
-
-    "cardTitle4": "Dom na Przedmieściach – Kasyno Rodzinne",
-    "cardDesc4": "Zbuduj kasyno w uroczym domu na przedmieściach! Stwórz rodzinne kasyno, w którym wszyscy członkowie rodziny mogą brać udział w grach. Idealne połączenie relaksu i hazardu w ciepłej, domowej atmosferze. Doskonała zabawa dla całej rodziny!",
-
-    "cardTitle5": "Domek na Drzewie – Kasyno w Lesie",
-    "cardDesc5": "Zbuduj swoje własne kasyno w sercu lasu! Umieść strefę hazardową w domku na drzewie, gdzie natura spotyka ekscytujące gry kasynowe. Idealne miejsce na relaks i rozrywkę z dala od zgiełku miasta, wśród zieleni i świeżego powietrza!",
-
-    "cardTitle6": "Ogród Spokoju – Kasyno Zen",
-    "cardDesc6": "Zanurz się w spokojnym świecie Kasyna Zen, otoczonego bujną roślinnością i japońską architekturą. Zbuduj wyjątkowe miejsce, gdzie harmonia natury łączy się z emocjami gier kasynowych. Idealne dla tych, którzy szukają chwili relaksu w otoczeniu hazardowej rozrywki.",
-
-    "cardTitle7": "Zamek Himeji – Kasyno Samurajów",
-    "cardDesc7": "Zbuduj majestatyczny zamek samurajów, w którym odbywają się elitarne gry kasynowe. Odkryj sekrety ukryte w starożytnych murach i stwórz miejsce, gdzie tradycja spotyka się z nowoczesnymi rozrywkami hazardowymi. Idealne dla miłośników historii i ekscytujących przygód!",
-
-    "cardTitle8": "Boutique Hotel – Kasyno Luksusowe",
-    "cardDesc8": "Zbuduj ekskluzywny hotel-butik z eleganckim kasynem, gdzie bogactwo i luksus spotykają się z ekscytującymi grami hazardowymi. Zaprojektuj prestiżowe pokoje i strefy rozrywki, przyciągając gości z całego świata. Idealne miejsce na odpoczynek i grę w pełnym przepychu otoczeniu.",
-
-    "cardTitle9": "Podziemne Kasyno Minecraft – Przygoda i Hazard",
-    "cardDesc9": "Odkryj tajemnicze podziemne kasyno w świecie Minecraft! Buduj struktury pełne wyzwań i ryzyka, walcz z przeciwnikami i zdobywaj skarby. Przeżyj ekscytującą przygodę, gdzie hazard spotyka się z legendarną grą Minecraft. Idealne dla fanów Minecrafta i kasynowych emocji!",
-
-    "cardTitle10": "Zamek Smoków – Kasyno w Średniowieczu",
-    "cardDesc10": "Zbuduj potężny średniowieczny zamek, w którym odbywają się legendarnie niebezpieczne gry hazardowe. Stwórz lochy pełne wyzwań i ukrytych skarbów, gdzie rycerze i smoki walczą o złoto i chwałę. Kasyno w świecie smoków i rycerzy czeka na śmiałych graczy!",
-
-    "cardQuantity": "Numer",
-    "cardPrice": "Cena",
-    "mainTitle": "nasze towary",
-    "mainBtn": "przejdź do katalogu"
-  },
-  "buttons": {
-    "toCatalog": "do katalogu",
-    "goHome": "Na głównym"
-  },
-  "payment": {
-    "mainTitle": "Opłata i dostawa",
-
-    "title1": "Metody płatności",
-    "title2": "Opcje dostawy",
-    "title3": "Śledzenie przesyłki",
-    "title4": "Kontakt",
-
-    "text1": "W naszym sklepie internetowym  http://budowlanaonlinegame.com  oferujemy różnorodne, wygodne metody płatności, aby zapewnić komfort zakupów naszym klientom. Możesz wybrać jeden z następujących sposobów płatności:",
-    "text2": "Wszystkie płatności są przetwarzane w bezpieczny sposób, co gwarantuje ochronę Twoich danych osobowych i finansowych.",
-    "text3": "Dostarczamy nasze produkty na terenie Polski oraz do wielu krajów Europy. Oferujemy następujące opcje dostawy:",
-    "text4": "Koszty dostawy są obliczane automatycznie podczas składania zamówienia i zależą od wybranej metody dostawy oraz lokalizacji dostarczenia.",
-    "text5": "Po wysłaniu zamówienia otrzymasz od nas numer śledzenia przesyłki, który umożliwi Ci monitorowanie statusu dostawy w czasie rzeczywistym.",
-    "text6": "W razie jakichkolwiek pytań dotyczących płatności lub dostawy, prosimy o kontakt za pośrednictwem strony Kontakt dostępnej naW razie jakichkolwiek pytań dotyczących płatności lub dostawy, prosimy o kontakt za pośrednictwem strony Kontakt dostępnej na http://budowlanaonlinegame.com .Jesteśmy tu, aby pomóc!",
-
-    "item1": "Płatność kartą kredytową/debetową (Visa, MasterCard)",
-    "item2": "Przelew bankowy",
-    "item3": "Płatność online za pośrednictwem bezpiecznych systemów płatności",
-    "item4": "Płatność za pobraniem przy odbiorze (dotyczy wybranych metod dostawy)",
-    "item5": "Dostawa kurierska (2-5 dni roboczych)",
-    "item6": "Paczkomaty (1-3 dni robocze)",
-    "item7": "Dostawa międzynarodowa (5-10 dni roboczych, w zależności od kraju)"
-  },
   "rules": {
     "mainTitle": "Regulamin korzystania z Platformy",
 
@@ -120,12 +54,12 @@
     "title5": "5. Zmiany w regulaminie",
     "title6": "6. Kontakt",
 
-    "text1": "Niniejszy regulamin określa zasady korzystania z platformy  http://budowlanaonlinegame.com  Korzystanie z naszej strony internetowej oznacza akceptację niniejszych warunków. Prosimy o uważne zapoznanie się z regulaminem przed dokonaniem jakichkolwiek zakupów.",
-    "text2": "Podczas składania zamówienia użytkownik jest zobowiązany do podania prawdziwych danych, takich jak: imię i nazwisko, numer telefonu oraz adres e-mail. Informacje te są niezbędne do realizacji zamówienia i kontaktu z klientem. http://budowlanaonlinegame.com  gwarantuje ochronę danych osobowych zgodnie z obowiązującymi przepisami o ochronie danych.",
+    "text1": "Niniejszy regulamin określa zasady korzystania z platformy  http://gauntletslotandgem.com  Korzystanie z naszej strony internetowej oznacza akceptację niniejszych warunków. Prosimy o uważne zapoznanie się z regulaminem przed dokonaniem jakichkolwiek zakupów.",
+    "text2": "Podczas składania zamówienia użytkownik jest zobowiązany do podania prawdziwych danych, takich jak: imię i nazwisko, numer telefonu oraz adres e-mail. Informacje te są niezbędne do realizacji zamówienia i kontaktu z klientem. http://gauntletslotandgem.com  gwarantuje ochronę danych osobowych zgodnie z obowiązującymi przepisami o ochronie danych.",
     "text3": "Użytkownik zobowiązuje się do korzystania z platformy zgodnie z prawem i zasadami określonymi w niniejszym regulaminie. Zabronione jest:",
-    "text4": "Platforma  http://budowlanaonlinegame.com  nie ponosi odpowiedzialności za jakiekolwiek szkody wynikające z niewłaściwego korzystania z jej usług przez użytkownika. W przypadku problemów technicznych z platformą użytkownik ma obowiązek niezwłocznie zgłosić je administratorom strony.",
+    "text4": "Platforma  http://gauntletslotandgem.com  nie ponosi odpowiedzialności za jakiekolwiek szkody wynikające z niewłaściwego korzystania z jej usług przez użytkownika. W przypadku problemów technicznych z platformą użytkownik ma obowiązek niezwłocznie zgłosić je administratorom strony.",
     "text5": "Zastrzegamy sobie prawo do dokonywania zmian w niniejszym regulaminie w dowolnym momencie. Wszelkie zmiany zostaną opublikowane na tej stronie i zaczną obowiązywać z chwilą ich opublikowania. Korzystanie z platformy po wprowadzeniu zmian oznacza akceptację nowego regulaminu.",
-    "text6": "W razie pytań dotyczących niniejszego regulaminu prosimy o kontakt za pośrednictwem strony Kontakt dostępnej na http://budowlanaonlinegame.com.",
+    "text6": "W razie pytań dotyczących niniejszego regulaminu prosimy o kontakt za pośrednictwem strony Kontakt dostępnej na http://gauntletslotandgem.com.",
 
     "item1": "Korzystanie z platformy w sposób, który narusza obowiązujące przepisy prawa.",
     "item2": "Przekazywanie nieprawdziwych lub wprowadzających w błąd informacji podczas rejestracji lub składania zamówień.",
@@ -140,7 +74,7 @@
     "title4": "4. Wymiana produktów",
     "title5": "5. Kontakt",
 
-    "text1": "Wszystkie produkty zakupione w sklepie internetowym http://budowlanaonlinegame.com są objęte gwarancją producenta. Gwarancja obejmuje wady fabryczne oraz uszkodzenia wynikające z normalnego użytkowania. Okres gwarancji zależy od konkretnego produktu i jest podany w jego opisie na naszej stronie.",
+    "text1": "Wszystkie produkty zakupione w sklepie internetowym http://gauntletslotandgem.com są objęte gwarancją producenta. Gwarancja obejmuje wady fabryczne oraz uszkodzenia wynikające z normalnego użytkowania. Okres gwarancji zależy od konkretnego produktu i jest podany w jego opisie na naszej stronie.",
     "text2": "W przypadku stwierdzenia wady zakupionego produktu, prosimy o natychmiastowy kontakt z naszym działem obsługi klienta za pośrednictwem strony Kontakt dostępnej na Kontakt.",
     "text3": "Klient ma prawo do zwrotu zakupionego towaru w ciągu 14 dni od dnia otrzymania przesyłki bez podania przyczyny. Aby skorzystać z prawa do odstąpienia od umowy, prosimy o kontakt z naszym działem obsługi klienta oraz wypełnienie formularza zwrotu dostępnego na stronie.",
     "text4": "Zwracany produkt musi być w stanie nienaruszonym, w oryginalnym opakowaniu i bez śladów użytkowania. Koszty przesyłki zwrotnej pokrywa klient, chyba że zwrot jest wynikiem błędu z naszej strony (np. wysłanie niewłaściwego produktu).",
@@ -160,7 +94,7 @@
     "title7": "7. Zmiany w polityce prywatności",
     "title8": "8. Kontakt",
 
-    "text1": "Niniejsza polityka prywatności określa zasady przetwarzania danych osobowych użytkowników korzystających ze strony internetowej http://budowlanaonlinegame.com . Ochrona prywatności naszych klientów jest dla nas priorytetem, dlatego gromadzimy i przetwarzamy dane osobowe zgodnie z obowiązującymi przepisami prawa, w tym zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 (RODO).",
+    "text1": "Niniejsza polityka prywatności określa zasady przetwarzania danych osobowych użytkowników korzystających ze strony internetowej http://gauntletslotandgem.com . Ochrona prywatności naszych klientów jest dla nas priorytetem, dlatego gromadzimy i przetwarzamy dane osobowe zgodnie z obowiązującymi przepisami prawa, w tym zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 (RODO).",
     "text2": "Podczas składania zamówienia lub rejestracji na naszej stronie, możemy poprosić o podanie następujących danych:",
     "text3": "Dane te są niezbędne do realizacji zamówień oraz kontaktu z klientami w razie pytań lub problemów.",
     "text4": "Przetwarzamy dane osobowe użytkowników w celu:",
@@ -186,12 +120,10 @@
   },
   "footer": {
     "link1": "Główny",
-    "link2": "O sklepie",
-    "link3": "Kolekcje",
-    "link4": "Oferta Usług",
+    "link2": "O serwisie",
+    "link3": "O grze",
     "link5": "Polityka prywatności |",
     "link6": "Regulamin korzystania z Platformy |",
-    "link7": "Gwarancja i zwroty |",
-    "link8": "Opłata i dostawa"
+    "link7": "Gwarancja i zwroty |"
   }
 }
