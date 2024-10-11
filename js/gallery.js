@@ -11,6 +11,17 @@ const swiper = new Swiper(".swiper", {
   wrapperClass: "gallery-list",
   centeredSlides: false,
   noSwiping: true,
+  breakpoints: {
+    0: {
+      slidesPerView: 1,
+    },
+    768: {
+      slidesPerView: 2,
+    },
+    1024: {
+      slidesPerView: 3,
+    },
+  },
 });
 
 document.addEventListener("DOMContentLoaded", () => {
