@@ -8,6 +8,7 @@ i18next.use(i18nextXHRBackend).init(
     debug: true,
     backend: {
       loadPath: "./locales/{{lng}}.json",
+      loadPath: "../locales/{{lng}}.json",
     },
   },
   function (err, t) {
